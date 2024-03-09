@@ -1,3 +1,4 @@
 # Portfolio
 This is my portfolio.
-Author- Manas Singh
+<br>
+<h1>Author- Manas Singh</h1>
